@@ -11,7 +11,7 @@ A React application showcasing a pricing card component with various subscriptio
 
 ## Demo
 
-Check out the live demo on Netlify: [React Price Card](https://your-netlify-deploy-link.netlify.app)
+Check out the live demo on Netlify: [React Price Card](https://my-react-price-card.netlify.app/)
 
 ## Installation
 
