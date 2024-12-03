@@ -1,7 +1,21 @@
-1. React-Day-2 Price Card Task.
+# React Price Card
 
-2. Reproduced the user interface using a React.js application with JSX.
-3. Wrote the code in a dynamic manner.
+A React application showcasing a pricing card component with various subscription plans, styled using Bootstrap and custom CSS. Created by Harish G - Batch59WD-T.
 
-4. Used Array of objects for the data to display in a loop - Map method is used and to create dynamic elements by separate functional components
-5. Passed data i.e array of objects using map, per element to a child component to render DOM structure using component import and variable.# react-price-card
+## Features
+
+- Three different subscription plans: Free, Plus, and Pro
+- Responsive design using Bootstrap
+- Custom CSS for additional styling
+- GitHub profile link with icon
+
+## Demo
+
+Check out the live demo on Netlify: [React Price Card](https://your-netlify-deploy-link.netlify.app)
+
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-github-username/react-price-card.git
+   ```
